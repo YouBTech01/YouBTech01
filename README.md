@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm You B Tech</h1>
 <h3 align="center">I developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/dgdq8br-09cc7ad6-a021-47a5-b0e0-917b12b0f7a7.gif">
+<img align="right" alt="coding" width="400" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/dgdq8br-09cc7ad6-a021-47a5-b0e0-917b12b0f7a7.gif](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0C7xpsvzROefl3oDBI8dTCg8uAembKOZ4mHrfoxd4ODs-DabqTYa4Yt0pS0aY71W8cGb5aQbdm81oyiKbduLgiisqyeVR0UNHH1Eq6Jh7CVUELH_4rxsGm4lmCKlYs2X52qmbtzdXWd0/s1600/2000_600px.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=youbtech01&label=Profile%20views&color=0e75b6&style=flat" alt="youbtech01" /> </p>
 
