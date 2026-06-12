@@ -1,30 +1,78 @@
-<h1 align="center">Hi 👋, I'm Brajendra</h1>
-<h3 align="center">I developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/dgdq8br-09cc7ad6-a021-47a5-b0e0-917b12b0f7a7.gif">
+<div align="left">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=youbtech01&label=Profile%20views&color=0e75b6&style=flat" alt="youbtech01" /> </p>
-
-- 🔭 I’m currently working on **Track Back**
-
-- 💬 Ask me about **Android And Wedsite Developer**
-
-- 📫 How to reach me **bkc58746@gmail.com**
-
-- ⚡ Fun fact **i'm funny**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/you_b_tech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="you b tech" height="30" width="40" /></a>
-<a href="https://fb.com/you_b_tech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="you b tech" height="30" width="40" /></a>
-<a href="https://instagram.com/you_b_tech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="you_b_tech" height="30" width="40" /></a>
-<a href="https://youtube.com/@You_B_Tech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="you b tech" height="30" width="40" /></a>
+<p>
+  <img src="https://komarev.com/ghpvc/?username=youbtech01&style=flat-square&color=7c3aed&label=Profile+Views" />
+  <img src="https://img.shields.io/badge/Open_to-Collaboration-22c55e?style=flat-square" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> </a> </p>
+## Brajendra
+**Android & Web Developer — India**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=youbtech01&show_icons=true&locale=en&layout=compact" alt="youbtech01" /></p>
+🟢 &nbsp;Currently building **Track Back**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=youbtech01&show_icons=true&locale=en" alt="youbtech01" /></p>
+📬 &nbsp;[bkc58746@gmail.com](mailto:bkc58746@gmail.com) &nbsp;·&nbsp; 💬 Ask me about **Android & Web Development**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=youbtech01&" alt="youbtech01" /></p>
+---
+
+### Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/you_b_tech)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@You_B_Tech)
+[![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/you_b_tech)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://fb.com/you_b_tech)
+
+---
+
+### Tech Stack
+
+**Mobile & Cross-platform**
+
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+
+**Web**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+
+**Data & Cloud**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+**Tools**
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+---
+
+### GitHub Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=youbtech01&show_icons=true&hide_title=true&hide_border=true&bg_color=0d1117&text_color=aaaaaa&icon_color=7c3aed&rank_icon=github">
+  <img height="155" src="https://github-readme-stats.vercel.app/api?username=youbtech01&show_icons=true&hide_title=true&hide_border=true&bg_color=ffffff&text_color=555555&icon_color=7c3aed&rank_icon=github" alt="GitHub stats">
+</picture>
+&nbsp;
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=youbtech01&layout=compact&hide_title=true&hide_border=true&bg_color=0d1117&text_color=aaaaaa">
+  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs?username=youbtech01&layout=compact&hide_title=true&hide_border=true&bg_color=ffffff&text_color=555555" alt="Top languages">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=youbtech01&hide_border=true&background=0d1117&ring=7c3aed&fire=e1306c&currStreakLabel=7c3aed&sideLabels=aaaaaa&dates=555555&currStreakNum=cccccc&sideNums=cccccc">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=youbtech01&hide_border=true&background=ffffff&ring=7c3aed&fire=e1306c&currStreakLabel=7c3aed&sideLabels=888888&dates=aaaaaa&currStreakNum=333333&sideNums=333333" alt="GitHub Streak">
+</picture>
+
+---
+
+*⚡ Fun fact — I'm funny.*
+
+</div>
